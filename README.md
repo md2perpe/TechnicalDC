@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Linux, FOSS.
 - 📫 How to reach me: Look down lazzy boy.
 
-## Langauage 
+## Languages 
 ![html5](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/html5.png)
 ![javascript](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/js.png)
 ![css](https://github.com/TechnicalDC/TechnicalDC/blob/main/res/css3.png)
